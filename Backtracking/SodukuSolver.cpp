@@ -1,3 +1,6 @@
+https://leetcode.com/problems/sudoku-solver/
+Explaination video- https://www.youtube.com/watch?v=uyetDh-DyDg
+
 class Solution {
 public:
     bool isValid(vector<vector<char>>& board,int i,int j,char& ch)
