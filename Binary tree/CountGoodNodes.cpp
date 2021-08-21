@@ -1,5 +1,5 @@
 https://leetcode.com/problems/count-good-nodes-in-binary-tree/
-
+explaination vide= https://www.youtube.com/watch?v=AXcgsSAxFiM
 class Solution {
 public:
     int dfs(TreeNode* root,int max)
